@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋  
 
-<!--
-**juniyasyos/juniyasyos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Ahmad Ilyas**, a student at **Universitas Negeri Jember** with a strong interest in **AI**, **Web Development**, and **Cloud Infrastructure** using IaC tools.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🎓 Currently studying at **Universitas Negeri Jember**  
+- 🧠 Passionate about **Artificial Intelligence**, **Web Development**, and **Cloud Infrastructure**  
+- 🛠️ Familiar with tools like **Terraform**, **Docker**, and other IaC technologies  
+- 🌱 Always eager to learn and improve my technical skills  
+
+---
+
+## 💼 Looking for Opportunities  
+I am currently looking for **internships** and **job opportunities** to apply my skills and grow professionally.  
+
+---
+
+## 📫 How to Reach Me  
+- Email: **ahmadilyasdahlan@gmail.com**  
+- LinkedIn: Ahmad Ilyas(https://www.linkedin.com/in/ahmad-ilyas-dahlan/)  
+- GitHub: Juniyasyos(https://github.com/juniyasyos)  
+
+---
+
+Let's connect and create something impactful together! 🚀  
+
+---
