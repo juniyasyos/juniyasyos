@@ -19,8 +19,8 @@ I am currently looking for **internships** and **job opportunities** to apply my
 
 ## 📫 How to Reach Me  
 - Email: **ahmadilyasdahlan@gmail.com**  
-- LinkedIn: Ahmad Ilyas(https://www.linkedin.com/in/ahmad-ilyas-dahlan/)  
-- GitHub: Juniyasyos(https://github.com/juniyasyos)  
+- LinkedIn: [Ahmad Ilyas](https://www.linkedin.com/in/ahmad-ilyas-dahlan/)  
+- GitHub: [Juniyasyos](https://github.com/juniyasyos)  
 
 ---
 
