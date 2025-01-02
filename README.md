@@ -5,7 +5,7 @@ I am **Ahmad Ilyas**, a student at **Universitas Negeri Jember** with a strong i
 ---
 
 ## 🚀 About Me  
-- 🎓 Currently studying at **Universitas Negeri Jember**  
+- 🎓 Currently studying at **Jember University**  
 - 🧠 Passionate about **Artificial Intelligence**, **Web Development**, and **Cloud Infrastructure**  
 - 🛠️ Familiar with tools like **Terraform**, **Docker**, and other IaC technologies  
 - 🌱 Always eager to learn and improve my technical skills  
